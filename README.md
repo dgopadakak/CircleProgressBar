@@ -56,8 +56,9 @@ public class MainActivity extends AppCompatActivity
 }
 ```
 <br>
-Then, put this into your activity_main.xml:
-```
+Then, put this into your activity_main.xml:<br>
+
+```xml
 <ProgressBar
     android:id="@+id/progress_bar"
     style="@style/CircularDeterminateProgressBar"
