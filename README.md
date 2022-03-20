@@ -173,4 +173,4 @@ Now, if you don't have style.xml file in res/values - just create it with the st
     <h3>Done!</h3>
 </dl>
 
-Thanks for [Coding in Flow](https://gist.github.com/codinginflow) for your project!
+Thanks for [Coding in Flow](https://gist.github.com/codinginflow) for your [project](https://gist.github.com/codinginflow/477606b85ed11c537a81e80224361878)!
