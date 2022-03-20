@@ -99,3 +99,6 @@ Then, put this into your activity_main.xml:<br>
     app:layout_constraintEnd_toEndOf="@+id/progress_bar"
     app:layout_constraintTop_toBottomOf="@+id/progress_bar" />
 ```
+
+<br>
+Then create "Drawable Resource File" (this is an .xml file) in res/drawable with the following settings:
