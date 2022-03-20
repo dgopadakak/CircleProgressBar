@@ -97,4 +97,4 @@ Then, put this into your activity_main.xml:
     android:text="+ 10%"
     app:layout_constraintEnd_toEndOf="@+id/progress_bar"
     app:layout_constraintTop_toBottomOf="@+id/progress_bar" />
-.```
+```
