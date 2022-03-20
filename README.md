@@ -172,3 +172,5 @@ Now, if you don't have style.xml file in res/values - just create it with the st
 <dl>
     <h3>Done!</h3>
 </dl>
+
+Thanks for [Coding in Flow](https://gist.github.com/codinginflow) for your project!
