@@ -113,7 +113,7 @@ Then, put this into your activity_main.xml:<br>
 <br>
 Then create "Drawable Resource File" (this is an .xml file) in res/drawable with the following settings:
 <img src="https://github.com/dgopadakak/imagesForOtherMyRepositories/blob/master/CircleProgressBarSettings.jpg" alt="Settings"/>
-Put this cod into new file "circle":
+Put this code into new file "circle":
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
