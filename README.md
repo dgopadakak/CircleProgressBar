@@ -1,7 +1,7 @@
 # CircleProgressBar
 Circle progress bar on Java for Android Studio.<br>
 <br>
-Put this into your MAinActivity.java:
+Put this into your MainActivity.java:
 ```java
 import androidx.appcompat.app.AppCompatActivity;
 
